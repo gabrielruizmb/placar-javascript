@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(107, 211, 121);
+  color: white;
+  font: normal 20px sans-serif;
+}
+
+#section {
+  border: dashed blue 5px;
+  margin: 200px;
+  padding: 20px;
+}
+
+#section h1 {
+  display: flex;
+  justify-content: center;
+}
+
+#placar {
+  display: flex;
+  justify-content: space-evenly;
+}
